@@ -1,52 +1,73 @@
 # Hi there, I'm Maximus Mukiza! 👋
 
-I'm a passionate **Cloud & Cyber Security student** at Thomas More Geel, with 2 years of experience. I thrive on **automating cloud infrastructure**, driven by the goal of achieving easier and more cost-effective solutions compared to on-site setups. My current focus is deep diving into **cloud security and infrastructure**.
+I'm a **Cloud & Cyber Security student** at Thomas More Geel with 2 years of hands-on experience in cloud infrastructure and automation. I'm passionate about building secure, scalable solutions that make cloud deployments simpler and more cost-effective than traditional on-premises setups.
 
 ---
 
-## About Me
+## 🎯 What I'm Working On
 
-- 🔭 I’m currently building a **secure, automated hosting platform (School)** designed to simplify the deployment of client Git repositories, initially focusing on European standards.
-- 🌱 I’m currently learning advanced topics within **Cloud & Cyber Security**, specifically focusing on cloud security and infrastructure.
-- 👯 I’m actively looking to collaborate on **Rust Development**, particularly projects aiming to enhance speed and security in low-level systems, inspired by its potential to complement the Linux ecosystem. (I hold an LPI certification!)
+**Currently building:** A secure, automated hosting platform for my studies that streamlines the deployment of client Git repositories with a focus on European compliance standards.
+
+**Learning focus:** Advanced cloud security architectures, infrastructure hardening, and emerging threats in cloud environments.
+
+**Collaboration interests:** Rust development projects, particularly those enhancing performance and security in low-level systems. As an LPI-certified professional, I'm excited about Rust's potential within the Linux ecosystem.
 
 ---
 
-## My Tech Stack:
+## 🛠️ Tech Stack
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Cloud Platforms & Infrastructure:**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Infrastructure as Code:**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-1845A3?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+
+**Automation & CI/CD:**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-267BFF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Systems & Scripting:**
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
-## Featured Projects:
+## 🚀 Featured Projects
 
-* [**Terraflask**](https://github.com/Grambot-ops/Terraflask) - A production-ready solution demonstrating how to deploy a Flask CRUD application on AWS using infrastructure as code with Terraform. **This project aims to simplify secure, scalable web app deployments for developers leveraging AWS.**
-* [**bicep-flex**](https://github.com/Grambot-ops/bicep-flex) - This project demonstrates deploying a simple Flask-based CRUD (Create, Read, Update, Delete) application to Azure using Bicep infrastructure-as-code. The architecture includes an Azure Container Registry (ACR), Azure Container Instance (ACI), and an Azure Load Balancer, ensuring security with private and public subnets. **It provides a robust, secure foundation for containerized applications on Azure.**
+### [**Terraflask**](https://github.com/Grambot-ops/Terraflask)
+A production-ready demonstration of deploying a Flask CRUD application on AWS using Terraform infrastructure as code. This project showcases secure, scalable web application deployment patterns that developers can adapt for their own AWS-based solutions.
 
-*(Consider Visting the repo's for more detail information!)*
+**Key features:** Infrastructure automation, security best practices, scalable architecture
+
+### [**bicep-flex**](https://github.com/Grambot-ops/bicep-flex)
+A comprehensive example of deploying containerized Flask applications to Azure using Bicep IaC. The architecture implements security-first design with private/public subnet segregation, Azure Container Registry integration, and load balancing for high availability.
+
+**Key features:** Secure containerization, Azure-native IaC, production-ready networking
+
+*Visit the repositories for detailed documentation and implementation guides!*
 
 ---
 
-## Let's Connect!
+## 🤝 Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/maximus-mukiza-1523a5297/)
-* [Personal Website](https://mmt-labs.be/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximus-mukiza-1523a5297/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mmt-labs.be/)
 
 ---
 
-## Beyond the Code:
+## 🌟 When I'm Not Coding
 
--   🏋️‍♂️ You can often find me at the **fitness**.
--   🏍️ I'm also a keen **motorcycle rider**.
--   🎮 When I'm not coding or riding, I enjoy **gaming**.
+**Fitness enthusiast** 🏋️‍♂️ - You'll often find me at the gym working on strength and endurance
+
+**Motorcycle rider** 🏍️ - Love exploring the open road and the mechanical precision of bikes
+
+**Gaming** 🎮 - Unwinding with strategic and competitive games when not building infrastructure
+
+---
+
+*Always open to discussing cloud architecture, security challenges, or collaboration opportunities!*
