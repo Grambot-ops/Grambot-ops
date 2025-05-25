@@ -41,8 +41,7 @@ I'm a passionate **Cloud & Cyber Security student** at Thomas More Geel, with 2 
 
 * [LinkedIn](https://www.linkedin.com/in/maximus-mukiza-1523a5297/)
 * [Personal Website](https://mmt-labs.be/)
-* Email: [your.email@example.com](mailto:your.email@example.com) *(**IMPORTANT:** Replace with your actual email address)*
-* [Twitter](https://twitter.com/yourtwitterhandle) *(Optional: Replace with your actual handle or remove this line if you don't use Twitter professionally)*
+
 
 ---
 
