@@ -54,7 +54,6 @@ A comprehensive example of deploying containerized Flask applications to Azure u
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximus-mukiza-1523a5297/)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mmt-labs.be/)
 
----
 
 ## 🌟 When I'm Not Coding
 
