@@ -12,7 +12,7 @@ I'm a **Cloud & Cyber Security student** at Thomas More Geel with 2 years of han
 
 **Collaboration interests:** Rust development projects, particularly those enhancing performance and security in low-level systems. As an LPI-certified professional, I'm excited about Rust's potential within the Linux ecosystem.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,6 @@ I'm a **Cloud & Cyber Security student** at Thomas More Geel with 2 years of han
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
@@ -50,8 +49,6 @@ A comprehensive example of deploying containerized Flask applications to Azure u
 **Key features:** Secure containerization, Azure-native IaC, production-ready networking
 
 *Visit the repositories for detailed documentation and implementation guides!*
-
----
 
 ## 🤝 Let's Connect
 
