@@ -49,5 +49,5 @@ I'm a passionate **Cloud & Cyber Security student** at Thomas More Geel, with 2 
 ## Beyond the Code:
 
 -   🏋️‍♂️ You can often find me at the **fitness**.
--   🏍️ I'm also a keen **motorcycle biker**.
+-   🏍️ I'm also a keen **motorcycle rider**.
 -   🎮 When I'm not coding or riding, I enjoy **gaming**.
