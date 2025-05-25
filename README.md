@@ -2,7 +2,6 @@
 
 I'm a **Cloud & Cyber Security student** at Thomas More Geel with 2 years of hands-on experience in cloud infrastructure and automation. I'm passionate about building secure, scalable solutions that make cloud deployments simpler and more cost-effective than traditional on-premises setups.
 
----
 
 ## 🎯 What I'm Working On
 
