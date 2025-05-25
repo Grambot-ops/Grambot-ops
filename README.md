@@ -33,7 +33,7 @@ I'm a passionate **Cloud & Cyber Security student** at Thomas More Geel, with 2 
 * [**Terraflask**](https://github.com/Grambot-ops/Terraflask) - A production-ready solution demonstrating how to deploy a Flask CRUD application on AWS using infrastructure as code with Terraform. **This project aims to simplify secure, scalable web app deployments for developers leveraging AWS.**
 * [**bicep-flex**](https://github.com/Grambot-ops/bicep-flex) - This project demonstrates deploying a simple Flask-based CRUD (Create, Read, Update, Delete) application to Azure using Bicep infrastructure-as-code. The architecture includes an Azure Container Registry (ACR), Azure Container Instance (ACI), and an Azure Load Balancer, ensuring security with private and public subnets. **It provides a robust, secure foundation for containerized applications on Azure.**
 
-*(Consider adding screenshots or GIFs of these projects directly to their respective GitHub READMEs, and perhaps linking to them here, to make them even more compelling!)*
+*(Consider Visting the repo's for more detail information!)*
 
 ---
 
