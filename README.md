@@ -12,27 +12,27 @@ I'm a **Cloud & Cyber Security student** at Thomas More Geel with 2 years of han
 **Collaboration interests:** Rust development projects, particularly those enhancing performance and security in low-level systems. As an LPI-certified professional, I'm excited about Rust's potential within the Linux ecosystem.
 
 
-
 ## 🛠️ Tech Stack
 
 **Cloud Platforms & Infrastructure:**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Infrastructure as Code:**
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-1845A3?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Azure%20Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Automation & CI/CD:**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-267BFF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Systems & Scripting:**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![LPI Certified](https://img.shields.io/badge/LPI%20Certified-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## 🚀 Featured Projects
@@ -49,10 +49,11 @@ A comprehensive example of deploying containerized Flask applications to Azure u
 
 *Visit the repositories for detailed documentation and implementation guides!*
 
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximus-mukiza-1523a5297/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mmt-labs.be/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mmt-labs.be/)
 
 
 ## 🌟 When I'm Not Coding
