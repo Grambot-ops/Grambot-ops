@@ -9,7 +9,7 @@ I'm a **Cloud & Cyber Security student** at Thomas More Geel with 2 years of han
 
 **Learning focus:** Advanced cloud security architectures, infrastructure hardening, and emerging threats in cloud environments.
 
-**Collaboration interests:** Rust development projects, particularly those enhancing performance and security in low-level systems. As an LPI-certified professional, I'm excited about Rust's potential within the Linux ecosystem.
+**Collaboration interests:** Rust development projects, particularly those enhancing performance and security in low-level systems. As an LPI-certified student, I'm excited about Rust's potential within the Linux ecosystem.
 
 ## 🛠️ Tech Stack
 
